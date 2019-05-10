@@ -1,0 +1,10 @@
+﻿  Źródło.cpp
+c:\users\lenovo\source\repos\cpp\metody numeryczne\numerkijacob\numerkijacob\źródło.cpp(97): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+c:\users\lenovo\source\repos\cpp\metody numeryczne\numerkijacob\numerkijacob\źródło.cpp(99): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+c:\users\lenovo\source\repos\cpp\metody numeryczne\numerkijacob\numerkijacob\źródło.cpp(117): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+c:\users\lenovo\source\repos\cpp\metody numeryczne\numerkijacob\numerkijacob\źródło.cpp(119): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+c:\users\lenovo\source\repos\cpp\metody numeryczne\numerkijacob\numerkijacob\źródło.cpp(135): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+c:\users\lenovo\source\repos\cpp\metody numeryczne\numerkijacob\numerkijacob\źródło.cpp(137): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+c:\users\lenovo\source\repos\cpp\metody numeryczne\numerkijacob\numerkijacob\źródło.cpp(155): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+c:\users\lenovo\source\repos\cpp\metody numeryczne\numerkijacob\numerkijacob\źródło.cpp(157): warning C4244: "inicjowanie": konwersja z "double" do "unsigned int", możliwa utrata danych
+  NumerkiJacob.vcxproj -> C:\Users\Lenovo\source\repos\cpp\metody numeryczne\NumerkiJacob\Debug\NumerkiJacob.exe
